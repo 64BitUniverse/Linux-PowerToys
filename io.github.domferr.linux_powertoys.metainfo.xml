@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.domferr.linux_powertoys</id>
+  
+  <name>Linux-PowerToys</name>
+  <summary>Get Microsoft&apos;s PowerToys utilities and much more to Linux world!</summary>
+  
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0-only</project_license>
+  
+  <description>
+    <p>
+      Get Microsoft&apos;s PowerToys utilities and much more to Linux world!
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.domferr.linux_powertoys.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/domferr/Linux-PowerToys/raw/main/HeroImage.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://private-user-images.githubusercontent.com/14203981/335717902-1d425b9b-015c-4387-a6f3-d90231660464.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNzI1ODMsIm5iZiI6MTc0NzI3MjI4MywicGF0aCI6Ii8xNDIwMzk4MS8zMzU3MTc5MDItMWQ0MjViOWItMDE1Yy00Mzg3LWE2ZjMtZDkwMjMxNjYwNDY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDAxMjQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjODYzOTFiNDM0ZThmMGQyYTJhMTIyOTRlOWFhYWM0MWJjNDZlOWVlMDhkYjQxMGE1ZjAzODlhNWNiNTM4ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ennNnwHhiSt28t_622_vRNmX-iTtKH2AdigeVlq_gRs</image>
+    </screenshot>
+  </screenshots>
+</component>

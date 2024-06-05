@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Linux-PowerToys
+Comment=Get Microsoft's PowerToys utilities and much more to Linux world!
+Categories=Utility;Accessibility;
+
+Icon=linux-powertoys
+Exec=linuxpowertoys
+Terminal=false
